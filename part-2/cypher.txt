@@ -1,0 +1,26 @@
+
+
+"MY CYPHER"
+
+KEY: 
+
+- Assuming the alphabet as an array (Meaning A has an index of 0, and Z an index of 25)
+- Each letter of the message will be encyphered with a symbol followed by a number then # then another number 
+- The symbols will be either $ or %.  The 2 numbers following (split by # symbol) will be used in addition or subtraction problem.  
+- The symbol preceeding them will determine if it is addition or subtraction.  
+- $ = +
+- % = -
+- The result of the problem will give you a number between 0 and 25 and will coincided with the index of the letter in the alphabet.
+- A space is represented as *
+- Numbers will be represented as a letter in alphabetical order (a=0, b=1, c=2...)
+
+Alphabet - a, b, c, d, e, f, g, h, i, j,  k,  l,  m, n,   o,  p,  q,  r,  s,  t, u,  v,  w,  x,  y,  z
+Index-     0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,21, 22, 23, 24, 25
+
+Ex. -   DevMountain PT07
+Enc - $2#1$2#2%24#3$6#6%24#10$17#3$10#3%20#1%5#5$6#2$10#3*%20#5$18#1AH
+
+Ex. - I love cryptography
+Enc - %10#2*$6#5$10#4%25#4$2#2*$2#0%19#2$12#12$7#8%25#6$7#7%7#1%19#2$5#0%18#3%10#3$22#2
+
+$11#13$11#3$18#2
