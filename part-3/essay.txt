@@ -1,0 +1,19 @@
+
+
+"RockStar Games cyber-security breach" 
+
+        RockStar Games, the creator of the Grand Theft Auto game series was hacked on September 18th of 2022.  It appears that a hacker
+    operating under the name teapotuberhacker was able to gain access to some video clips of GTA VI game play.  The game is still currently in development.  
+    He then posted those videos on a social media platform and posted on GTAForums.com that he hacked RockStar Games and was able to steal 90 videos of 
+    alpha footage and the source code for GTA VI and GTA V.  
+
+        The hacker was able to gain access to a their internal network after an employee clicked on a malicious email.  He then gained access to the staff 
+    member's Slack channel and downloaded the videos.  It is unclear how or if he actually was able to download the source code as he claims, but it has been
+    reported that he was blackmailing RockStar Games to return the stolen source code. 
+
+        In this case, the security failure happened with an employee who was unaware that he was allowing access to a threat.  Some other considerations that may should have been taken 
+    into account with security, is the Slack channel containing sensitive information.  
+
+        On September 22nd, a 17 year old was arrested in London on suspicion of hacking as part of the investigation into who is responsible for the RockStar Games security breach.  The
+    17 year old is said to be a member of the hacking group "Lapsus$".  In his posts on GTAForums.com he claimed also to be a responsible for the Uber security-breach which occurred just
+    3 days before on September 15th.  Lapsus$ has been responsible for many cyber-security attacks on well known organizations including Microsoft, T-mobile, Ubisoft, Samsung, and Nvidia.
